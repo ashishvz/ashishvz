@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishvz&label=Profile%20views&color=0e75b6&style=flat" alt="ashishvz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishvz" alt="ashishvz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishvz&count_private=true" alt="ashishvz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ashishzingade" target="blank"><img src="https://img.shields.io/twitter/follow/ashishzingade?logo=twitter&style=for-the-badge" alt="ashishzingade" /></a> </p>
 
