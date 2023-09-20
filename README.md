@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Dynatrace On The Go<br>👯 I’m looking to collaborate on projects on android<br>🤝 I’m looking for help with building software which makes life easy<br>🌱 I’m currently learning IOS Development<br>💬 Ask me about bikes
+🔭 I’m currently working on Dynatrace On The Go<br>👯 I’m looking to collaborate on projects on android<br>🌱 I’m currently learning IOS Development<br>💬 Ask me about bikes
 
 
 ## 🌐 Socials:
